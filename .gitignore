@@ -7,6 +7,12 @@
 # Ignore bundler config.
 /.bundle
 
+# Ignore rvmrc file
+.rvmrc
+
+# Ignore IDE files
+.idea
+
 # Ignore the default SQLite database.
 /db/*.sqlite3
 /db/*.sqlite3-journal
@@ -15,3 +21,13 @@
 /log/*
 !/log/.keep
 /tmp
+
+# Ignore other files
+database.yml
+doc/
+*.swp
+*~
+.project
+.DS_Store
+.secret
+
