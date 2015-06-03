@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 ruby '2.2.2'
+#ruby-gemset=demo_app
 
 gem 'rails', '4.2.1'
 
